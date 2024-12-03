@@ -1,4 +1,4 @@
-# AoC2024
+# AoC 2024
 
 ![Python Version](https://img.shields.io/badge/Python-3.13-green)
 

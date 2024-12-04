@@ -9,7 +9,7 @@ REGEX = r'mul\(\d{1,3},\d{1,3}\)'
 def main() -> None:
     corrupted_memory = read_input('input.txt')
     result = scan(corrupted_memory, REGEX)
-    print(f'The result of the multiplication is {result:_}')
+    print(f'The result of the multiplication: {result:_}')
 
 
 def read_input(filename: str) -> str:
